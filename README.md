@@ -1,6 +1,6 @@
 # Museum landing page
 
-<b>Technologies used:</b> HTML/CSS, SCSS, JavaScript, BEM
+<b>Technologies used:</b> JavaScript, React, Typescript, HTML, CSS, BEM
 
 <b>Adapted for:</b>
 - Large screens 2560px
